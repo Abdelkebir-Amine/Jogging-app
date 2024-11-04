@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Jogging App",
+    "slug": "joggingApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Images/jogging96.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Images/jogging96.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "."
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Images/jogging96.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.amine_ak.joggingApp"
+    },
+    "web": {
+      "favicon": "./assets/Images/jogging96.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "be88b1ba-58f0-4323-9088-514dae4fe3a1"
+      }
+    }
+  }
+}
